@@ -1,0 +1,6 @@
+---
+# defaults file for ryezonelabs.proxmox_host_config
+versions:
+  jq:
+    version: 1.6
+    checksum: "sha256:AF986793A515D500AB2D35F8D2AECD656E764504B789B66D7E1A0B727A124C44"
