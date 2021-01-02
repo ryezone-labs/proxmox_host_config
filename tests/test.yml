@@ -2,4 +2,4 @@
 - hosts: localhost
   remote_user: root
   roles:
-    - ryezone_labs.proxmox_host_config
+    - proxmox_host_config
