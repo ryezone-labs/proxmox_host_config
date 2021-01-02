@@ -2,6 +2,6 @@
 - name: Converge
   hosts: all
   tasks:
-    - name: "Include ryezone_labs.proxmox_host_config"
+    - name: "Include proxmox_host_config"
       include_role:
-        name: "ryezone_labs.proxmox_host_config"
+        name: "proxmox_host_config"
